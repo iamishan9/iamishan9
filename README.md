@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there... je suis Ishan👋
+
+- 🔭 I’m currently working on Programmable Matter
+- 🌱 I’m currently learning Modular Robots Programming
+- 💬 Ask me about doing Masters in France 🇫🇷
+- 📫 How to reach me: linkedin or email
+- ⚡ Fun fact: football might as well be life 
+<!-- - 😄 Pronouns: ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 
 <!--
 **iamishan9/iamishan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
