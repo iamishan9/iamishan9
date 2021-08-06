@@ -1,6 +1,6 @@
 ### Hi there... je suis Ishan👋
 
-- 🔭 I’m currently working on Programmable Matter
+- 🔭 I’m currently working on Optimizing an Assembly Line.
 - 📫 How to reach me: linkedin or email
 <!-- - ⚡ Fun fact: football might as well be life -->
 <!-- - 😄 Pronouns: ... -->
